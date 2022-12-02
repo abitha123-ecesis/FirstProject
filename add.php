@@ -2,7 +2,8 @@
 
 echo "Welcome to new page";
 
-$a = 15;
+$a = 20;
+
 $b = 2;
 
 $c = $a  + $b;
